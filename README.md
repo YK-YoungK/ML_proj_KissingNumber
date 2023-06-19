@@ -28,5 +28,5 @@ python main.py
 
 We present the best results obtained by different models for the kissing number problem in $\mathrm{dim}=3,4,5,6$. In the case of $\mathrm{dim}=5,6$, the RL+MCTS+Knowledge approach utilizes the optimal results from the previous dimension to find the results in the current dimension. Both of our models presented here employ the **''looking one step ahead''** technique. See our report for more details.
 
-![image-20230618163440504](.\fig\Results.png)
+![image](https://github.com/YK-YoungK/ML_proj_KissingNumber/blob/main/fig/Results.png)
 
